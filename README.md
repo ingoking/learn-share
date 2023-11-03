@@ -1,5 +1,5 @@
 # 여기에는..
- 주로 Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow 2판을 학습한 내용을 올립니다. 추가로 Keras, Tensorflow API 문서를 번역하거나 직접 학습한 내용 역시 올립니다.
+ 주로 [Hands-On Machine Learning with Scikit-Learn, Keras & Tensorflow 2판](https://www.hanbit.co.kr/store/books/look.php?p_code=B7033438574)을 학습한 내용을 올립니다. 추가로 Keras, Tensorflow API 문서를 번역하거나 직접 학습한 내용 역시 올립니다.
  대부분의 저작권은 [한빛미디어](https://www.hanbit.co.kr/)와 [Keras](https://keras.io/api/), [Tensorflow](https://www.tensorflow.org/tutorials?hl=ko)에 있습니다.
 
 ## 구성
